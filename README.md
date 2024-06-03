@@ -1,5 +1,8 @@
 # README
 
+## Disclaimer: 
+Due to the large number of arrests that occur in the USA, I had to separate out the arrest data into several csv files. To reproduce my work, you will have to recombine these files (or add a loop to loop through the files).
+
 ## Project Overview
 
 The purpose of this project is to analyze the disparity between arrest data and demographic data within a state. By comparing the number of people arrested by race to the population of that race residing in a state, the project aims to highlight potential disparities that may exist in law enforcement practices. While differences in arrests may be due to multiple reasons (income disparities, law enforement disparities, crime disparities, etc.), I believe it is still important to look at this data from just the perspective of race as a starting point.
